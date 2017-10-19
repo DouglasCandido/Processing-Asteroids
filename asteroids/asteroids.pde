@@ -1,5 +1,5 @@
 /* 
-Jogo Asteroids.
+The Atari's Asteroids game.
 */
 
 // import processing.sound.*;
