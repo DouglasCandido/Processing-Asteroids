@@ -1,2 +1,2 @@
 # Processing-Asteroids
-The Atari's Asteroids game made with Processing.
+The Atari's Asteroids game.
